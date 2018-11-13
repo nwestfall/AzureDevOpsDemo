@@ -15,8 +15,8 @@ namespace AzureDevOps.Models
 
 		public LogicModel(double x, double y)
 		{
-			X = x;
-			Y = y;
+			Y = x;
+			X = y;
 		}
 	}
 }
